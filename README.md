@@ -43,3 +43,4 @@ auto find the interpreter, click ok to finish
 - use `vagrant ssh` to login server
 - you can run python and import django and check version by django.VERSION
 - after check, use `logout` to logout
+- use `vagrant halt` to stop vm
