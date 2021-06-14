@@ -1,5 +1,9 @@
 # Django Twitter Api Template
 If you don't use Pycharm then no need to gitignore .idea
+### Python interpreter setup
+If you use pycharm, go to preferences, Project..., Python interpreter, 
+setting button and click add, choose vagrant left side, and it will help you
+auto find the interpreter, click ok to finish
 
 ### Vagrantfile.temp
 - this file is just for show you content to copy and paste to the file just named 'Vagrantfile' with no file extension name
